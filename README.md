@@ -19,3 +19,5 @@ Tasks included:
 ## In The Repository
 Included in this repository are some of the scripts used during the final phase of the project showcasing the above techniques. The final summary report is also included.   
 
+## Data Overview
+The data set for this project includes information on customers, products sold on the platform, and individual orders. 
